@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291104485291",
+    "project_id": "alongkab-89be6",
+    "storage_bucket": "alongkab-89be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291104485291:android:23f6963a822094f7482cee",
+        "android_client_info": {
+          "package_name": "com.example.argon_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291104485291-k2rp3r5rcqtrt9o119k6lc913e3t8nn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcKJNpnqpU4Qz-1biyyst6wZ9c3j_yH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291104485291-k2rp3r5rcqtrt9o119k6lc913e3t8nn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
