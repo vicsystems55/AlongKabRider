@@ -1,15 +1,16 @@
 # Welcome to AlongKab
 
-#Developers
+# Developers
 <ul>
-    <li> vicSystesm</li>
+    <li> vicSystems</li>
+    <li> FleePage Systems
 </ul>
 
-#Getting Started
+# Getting Started
 
-``` git clone https://github.com/vicsystems55/AlongKabRider.git```
-``` cd AlongKabRider ```
-``` pub get ```
+``` git clone https://github.com/vicsystems55/AlongKabRider.git``` <br>
+``` cd AlongKabRider ``` <br>
+``` pub get ``` <br>
 
 <p>
 Have a nice day !!
